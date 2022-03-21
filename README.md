@@ -1,5 +1,3 @@
-# Franka Emika Panda MoveIt! Config Package
+# Franka Emika Panda MoveIt! Config Package (Modified)
 
-The Panda robot is the flagship MoveIt! integration robot used in the MoveIt! tutorials.
-Any changes to MoveIt! need to be propagated into this config fast, so this package
-is co-located under the ``ros-planning`` Github organization here.
+Slight modifications has been done with the original package to connect to the controller used in the franka_gazebo package.
