@@ -61,5 +61,6 @@
     <disable_collisions link1="panda_link6" link2="panda_link7" reason="Adjacent" />
     <disable_collisions link1="panda_link6" link2="panda_link8" reason="Default" />
     <disable_collisions link1="panda_link7" link2="panda_link8" reason="Adjacent" />
+    <disable_collisions link1="panda_link5" link2="panda_hand" reason="Adjacent" />
   </xacro:macro>
 </robot>
